@@ -40,8 +40,8 @@ export default function Header() {
     <header className={`${styles.header} ${isScrolled ? styles.headerScrolled : ''}`}>
       <nav className={styles.nav}>
         <Link href="/" className={styles.logo} onClick={closeMenu}>
-          <span className={styles.logoText}>compute</span>
-          <span className={styles.logoAccent}>US</span>
+          <span className={styles.logoText}>ComputeUS</span>
+          <span className={styles.logoAccent}>&nbsp;LLC</span>
         </Link>
 
         <div className={`${styles.navMenu} ${isMenuOpen ? styles.navMenuOpen : ''}`}>

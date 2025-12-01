@@ -30,8 +30,7 @@ export default function Footer() {
           {/* Brand Section */}
           <div className={styles.footerBrand}>
             <Link href="/" className={styles.logo}>
-              <span className={styles.logoText}>compute</span>
-              <span className={styles.logoAccent}>US</span>
+              <span className={styles.logoText}>ComputeUS LLC</span>
             </Link>
             <p className={styles.brandDescription}>
               Secure, on-site AI systems and platforms — custom-built, production-ready, and fully owned and operated by your team.
@@ -78,7 +77,7 @@ export default function Footer() {
         {/* Footer Bottom */}
         <div className={styles.footerBottom}>
           <p className={styles.copyright}>
-            © {currentYear} computeUS LLC. All rights reserved.
+            © {currentYear} ComputeUS LLC. All rights reserved.
           </p>
           <div className={styles.legalLinks}>
             {footerLinks.legal.map((link, index) => (

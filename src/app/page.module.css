@@ -137,6 +137,11 @@
   margin-bottom: var(--mb-1);
 }
 
+.uspIconSvg {
+  display: inline-block;
+  color: var(--first-color, #2563eb);
+}
+
 .uspTitle {
   font-size: var(--h3-font-size);
   font-weight: var(--font-semi-bold);

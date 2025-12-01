@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 export const metadata: Metadata = {
   title: 'Contact Us',
   description:
-    'Get in touch with computeUS LLC to discuss your AI engineering and consultation needs.',
+    'Get in touch with ComputeUS LLC to discuss your AI engineering and consultation needs.',
 };
 
 export default function ContactPage() {

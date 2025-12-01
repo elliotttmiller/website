@@ -5,7 +5,7 @@ import footerStyles from '@/components/Footer.module.css';
 export const metadata: Metadata = {
   title: 'About Us',
   description:
-    'Learn about computeUS LLC — we help teams build secure, on-premise AI systems and platforms you own, so you get capability without compromise.',
+    'Learn about ComputeUS LLC — we help teams build secure, on-premise AI systems and platforms you own, so you get capability without compromise.',
 };
 
 export default function AboutPage() {

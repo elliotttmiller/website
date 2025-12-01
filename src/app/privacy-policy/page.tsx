@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Privacy Policy',
-  description: 'Privacy Policy for computeUS LLC.',
+  description: 'Privacy Policy for ComputeUS LLC.',
 };
 
 export default function PrivacyPolicyPage() {
@@ -17,7 +17,7 @@ export default function PrivacyPolicyPage() {
         <article>
           <h2>1. Introduction</h2>
           <p>
-            computeUS LLC (&quot;we,&quot; &quot;our,&quot; or &quot;us&quot;) respects your privacy and is
+            ComputeUS LLC (&quot;we,&quot; &quot;our,&quot; or &quot;us&quot;) respects your privacy and is
             committed to protecting your personal data. This privacy policy
             explains how we collect, use, disclose, and safeguard your
             information when you visit our website.

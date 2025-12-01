@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import styles from './page.module.css';
+import { FiShield, FiDollarSign, FiSettings } from 'react-icons/fi';
 
 export default function Home() {
   return (
@@ -37,7 +38,9 @@ export default function Home() {
           
           <div className={styles.uspGrid}>
             <div className={styles.uspCard}>
-              <div className={styles.uspIcon}>🛡️</div>
+              <div className={styles.uspIcon} aria-hidden="true">
+                <FiShield size={48} className={styles.uspIconSvg} />
+              </div>
               <h3 className={styles.uspTitle}>Absolute Data Sovereignty</h3>
               <p className={styles.uspDescription}>
                 Your data never leaves your secure, private hardware. Complete control
@@ -45,7 +48,9 @@ export default function Home() {
               </p>
             </div>
             <div className={styles.uspCard}>
-              <div className={styles.uspIcon}>💰</div>
+              <div className={styles.uspIcon} aria-hidden="true">
+                <FiDollarSign size={48} className={styles.uspIconSvg} />
+              </div>
               <h3 className={styles.uspTitle}>Cost Predictability</h3>
               <p className={styles.uspDescription}>
                 Fixed-price projects and predictable retainers eliminate runaway cloud
@@ -53,7 +58,9 @@ export default function Home() {
               </p>
             </div>
             <div className={styles.uspCard}>
-              <div className={styles.uspIcon}>⚙️</div>
+              <div className={styles.uspIcon} aria-hidden="true">
+                <FiSettings size={48} className={styles.uspIconSvg} />
+              </div>
               <h3 className={styles.uspTitle}>Unmatched Customization</h3>
               <p className={styles.uspDescription}>
                 Total control over the entire hardware and software stack. Solutions
