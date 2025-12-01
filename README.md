@@ -1,6 +1,6 @@
 
 <p align="center">
-	<img src="assets/img/computeus-nobg.png" alt="ComputeUS LLC" width="280" />
+	<img src="assets/img/computeusv2.png" alt="ComputeUS LLC" width="280" />
 </p>
 
 # ComputeUS LLC: Architecting the Future of Private AI
