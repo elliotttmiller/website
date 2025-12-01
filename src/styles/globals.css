@@ -171,10 +171,43 @@ textarea {
 
 .section__subtitle {
   display: block;
-  font-size: var(--small-font-size);
+  /* Use the same title color as the main page title to match visual weight */
+  color: var(--title-color);
   text-align: center;
-  margin-bottom: var(--mb-3);
-  color: var(--text-color-light);
+  margin-bottom: var(--mb-2);
+  /* Larger than before to read as a proper section header */
+  font-size: var(--h2-font-size);
+}
+
+/* About page specific/content helpers */
+.section__content {
+  max-width: 880px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: var(--mb-1-5);
+  padding-right: var(--mb-1-5);
+}
+
+.section__paragraph {
+  margin-bottom: var(--mb-1-5);
+  color: var(--text-color);
+  /* Slightly larger copy for better legibility */
+  font-size: 1.0625rem; /* ~17px */
+  line-height: 1.95;
+  text-align: center;
+}
+
+.section__cta {
+  display: flex;
+  justify-content: center;
+  margin-top: var(--mb-2);
+}
+
+/* Left-align paragraphs on larger screens for better readability */
+@media screen and (min-width: 768px) {
+  .section__paragraph {
+    text-align: left;
+  }
 }
 
 /*==================== LAYOUT ====================*/

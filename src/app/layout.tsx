@@ -5,7 +5,7 @@ import '@/styles/globals.css';
 
 export const metadata: Metadata = {
   title: {
-    default: 'computeUS LLC | Elite AI Engineering & Consultation',
+    default: 'computeUS LLC | Premier AI Engineering & Consultation',
     template: '%s | computeUS LLC',
   },
   description:
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'en_US',
     siteName: 'computeUS LLC',
-    title: 'computeUS LLC | Elite AI Engineering & Consultation',
+    title: 'computeUS LLC | Premier AI Engineering & Consultation',
     description:
       'Architecting secure, custom AI solutions on private infrastructure.',
   },

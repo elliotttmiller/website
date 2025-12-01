@@ -34,7 +34,7 @@ export default function Footer() {
               <span className={styles.logoAccent}>US</span>
             </Link>
             <p className={styles.brandDescription}>
-              Elite AI Engineering & Consultation. Architecting secure, custom AI solutions 
+              Exceptional AI Engineering & Consultation. Architecting secure, custom AI solutions 
               on private infrastructure.
             </p>
           </div>

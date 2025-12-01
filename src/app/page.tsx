@@ -9,7 +9,7 @@ export default function Home() {
         <div className={styles.heroContainer}>
           <div className={styles.heroContent}>
             <h1 className={styles.heroTitle}>
-              Elite AI Engineering
+              Advanced AI Engineering
               <br />
               <span className={styles.heroAccent}>On Your Infrastructure</span>
             </h1>

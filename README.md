@@ -1,6 +1,6 @@
 # computeUS LLC Digital Platform
 
-The flagship digital platform for computeUS LLC - an elite AI Engineering & Consultation firm specializing in secure, custom AI solutions on private, on-premise infrastructure.
+The flagship digital platform for computeUS LLC - a leading AI Engineering & Consultation firm specializing in secure, custom AI solutions on private, on-premise infrastructure.
 
 ## Tech Stack
 
@@ -66,7 +66,7 @@ src/
 
 ## Brand
 
-**computeUS LLC** - Elite AI Engineering & Consultation
+**computeUS LLC** - Premier AI Engineering & Consultation
 
 ### Core USP: The Private Infrastructure Advantage
 
