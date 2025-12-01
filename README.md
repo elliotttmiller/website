@@ -1,75 +1,40 @@
-# computeUS LLC Digital Platform
 
-The flagship digital platform for computeUS LLC - a leading AI Engineering & Consultation firm specializing in secure, custom AI solutions on private, on-premise infrastructure.
+<p align="center">
+	<img src="assets/img/computeusv2-5.png" alt="ComputeUS LLC" width="280" />
+</p>
 
-## Tech Stack
+# ComputeUS LLC: Architecting the Future of Private AI
 
-- **Framework:** Next.js 14+ (App Router)
-- **Language:** TypeScript
-- **Styling:** CSS Modules with Global Design Tokens
-- **Deployment:** Vercel-ready
+Welcome. This repository represents more than just code; it's a reflection of our core philosophy as a company. We're here to build a new foundation for enterprise AI—one where innovation and control are no longer mutually exclusive.
 
-## Getting Started
+This is the central hub for our ideas, our principles, and our vision for what's next.
 
-```bash
-# Install dependencies
-npm install
+## Our Core Thesis: The Private Infrastructure Advantage
 
-# Run development server
-npm run dev
+In a world rushing to the public cloud, we've taken a different, more deliberate path. We believe that for businesses where data is a core asset, true innovation shouldn't require a compromise on security or control. This belief is the foundation of our work, and it's built on three key pillars:
 
-# Build for production
-npm run build
+1. Security by Design.
 
-# Run production server
-npm start
+Our solutions are architected on private, on-premise hardware. This isn't just a feature; it's a promise. Your data, your models, and your competitive advantage remain exactly that—yours.
 
-# Lint code
-npm run lint
-```
+2. Predictability in Practice.
 
-## Project Structure
+The volatile, usage-based billing of the cloud is a barrier to innovation. We operate on a model of fixed-price projects and predictable partnerships, so you can focus on building your advantage, not on managing your bill.
 
-```
-src/
-├── app/                    # Next.js App Router pages
-│   ├── layout.tsx          # Root layout with Header & Footer
-│   ├── page.tsx            # Homepage
-│   ├── services/           # Services page
-│   ├── our-approach/       # Our Approach page
-│   ├── case-studies/       # Case Studies (with dynamic [slug])
-│   ├── insights/           # Insights (with dynamic [slug])
-│   ├── about/              # About page
-│   ├── contact/            # Contact page
-│   └── privacy-policy/     # Privacy Policy page
-├── components/             # Reusable React components
-│   ├── Header.tsx          # Global navigation header
-│   ├── Header.module.css
-│   ├── Footer.tsx          # Global footer
-│   └── Footer.module.css
-└── styles/
-    └── globals.css         # Global styles & design tokens
-```
+3. Performance without Compromise.
 
-## Sitemap
+By controlling the entire stack, from the silicon to the software, we build highly optimized, bespoke AI systems that are tuned to solve your specific challenges, delivering a level of performance that generic APIs simply can't match.
 
-- `/` - Home
-- `/services` - Services
-- `/our-approach` - Our Approach
-- `/case-studies` - Case Studies
-- `/case-studies/[slug]` - Individual Case Study
-- `/insights` - Insights
-- `/insights/[slug]` - Individual Insight
-- `/about` - About
-- `/contact` - Contact
-- `/privacy-policy` - Privacy Policy
+## Our Practice
 
-## Brand
+We are architects and engineers, translating complex challenges into durable, technological assets. Our work is focused on delivering a material advantage to our clients, moving beyond consultation to create systems that become a core part of their operational fabric.
 
-**computeUS LLC** - Premier AI Engineering & Consultation
+Our engagements range from developing deeply integrated custom AI solutions to the full-scale, end-to-end development of industry-specific SaaS platforms. We are not just service providers; we are long-term strategic partners in building the future of your business.
 
-### Core USP: The Private Infrastructure Advantage
+## An Invitation
 
-1. **Absolute Data Sovereignty** - Your data never leaves your secure, private hardware
-2. **Cost Predictability** - Fixed-price projects and predictable retainers
-3. **Unmatched Customization** - Total control over the entire hardware and software stack
+This is the beginning of a conversation. If you are a leader, an innovator, or an engineer who believes in building technology that lasts—and that a company's most valuable data deserves a secure, sovereign foundation—then our principles are aligned.
+
+We invite you to connect with us.
+
+Explore our work and begin a conversation at contactus@computeusllc.com

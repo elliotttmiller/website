@@ -34,8 +34,7 @@ export default function Footer() {
               <span className={styles.logoAccent}>US</span>
             </Link>
             <p className={styles.brandDescription}>
-              Exceptional AI Engineering & Consultation. Architecting secure, custom AI solutions 
-              on private infrastructure.
+              Secure, on-site AI systems and platforms — custom-built, production-ready, and fully owned and operated by your team.
             </p>
           </div>
 

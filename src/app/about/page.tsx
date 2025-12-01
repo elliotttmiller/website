@@ -33,6 +33,61 @@ export default function AboutPage() {
             your control and fit your operations.
           </p>
 
+          <h2 id="our-approach" className="section__subtitle">Our approach</h2>
+          <p className="section__paragraph">
+            A methodology built on trust, expertise, and measurable results.
+            Below are the stages we typically follow when working with
+            enterprise teams.
+          </p>
+
+          <div className="grid">
+            <article>
+              <h3>Discovery & Assessment</h3>
+              <p className="section__paragraph">
+                We begin with a deep dive into your organization&apos;s needs,
+                existing infrastructure, and strategic objectives. Understanding
+                your unique challenges enables us to architect solutions that
+                deliver real value.
+              </p>
+            </article>
+
+            <article>
+              <h3>Architecture & Design</h3>
+              <p className="section__paragraph">
+                We architect comprehensive solutions tailored to your specific
+                requirements. Our designs prioritize security, scalability, and
+                performance from the ground up.
+              </p>
+            </article>
+
+            <article>
+              <h3>Implementation & Deployment</h3>
+              <p className="section__paragraph">
+                Expert implementation on your on-site infrastructure. We handle
+                the complexity of deployment while ensuring minimal disruption
+                to your existing operations.
+              </p>
+            </article>
+
+            <article>
+              <h3>Training & Knowledge Transfer</h3>
+              <p className="section__paragraph">
+                We don&apos;t just build solutions—we ensure your team can operate
+                and maintain them. Comprehensive training and documentation
+                empower your organization for long-term success.
+              </p>
+            </article>
+
+            <article>
+              <h3>Ongoing Partnership</h3>
+              <p className="section__paragraph">
+                Our relationship doesn&apos;t end at deployment. We offer ongoing
+                support, optimization, and strategic guidance to help you
+                maximize the value of your AI systems and platforms.
+              </p>
+            </article>
+          </div>
+
           <h2 className="section__subtitle">Built on better foundations</h2>
           <p className="section__paragraph">
             AI systems and platforms need infrastructure that’s purpose-built

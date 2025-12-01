@@ -8,7 +8,6 @@ import styles from './Header.module.css';
 const navigation = [
   { name: 'Home', href: '/' },
   { name: 'Services', href: '/services' },
-  { name: 'Our Approach', href: '/our-approach' },
   { name: 'Case Studies', href: '/case-studies' },
   { name: 'Insights', href: '/insights' },
   { name: 'About', href: '/about' },

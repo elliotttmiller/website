@@ -34,9 +34,7 @@ export default function Home() {
       <section className={styles.uspSection}>
         <div className={styles.container}>
           <h2 className={styles.sectionTitle}>The Private Infrastructure Advantage</h2>
-          <p className={styles.sectionSubtitle}>
-            Three critical benefits unavailable from cloud-only competitors
-          </p>
+          
           <div className={styles.uspGrid}>
             <div className={styles.uspCard}>
               <div className={styles.uspIcon}>🛡️</div>
@@ -70,9 +68,7 @@ export default function Home() {
       <section className={styles.servicesSection}>
         <div className={styles.container}>
           <h2 className={styles.sectionTitle}>Our Core Expertise</h2>
-          <p className={styles.sectionSubtitle}>
-            Specializing in the &quot;last mile&quot; of applied AI
-          </p>
+          
           <div className={styles.servicesGrid}>
             <div className={styles.serviceCard}>
               <h3 className={styles.serviceTitle}>High-Performance Compute</h3>
